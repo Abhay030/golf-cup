@@ -1,2 +1,7 @@
 # golf-cup
-Golf Website - Frontend Showcase  A responsive and interactive golf-themed website demonstrating my frontend skills. Built with HTML, CSS, and JavaScript, featuring dynamic content, smooth animations, and a mobile-friendly design. This project showcases my ability to create functional, visually appealing web interfaces.
+A responsive and interactive golf-themed website built to demonstrate my frontend development skills. Key highlights:
+
+Clean design with smooth animations
+Fully responsive for all devices
+Dynamic content using HTML, CSS, and JavaScript
+This project focuses on user-friendly design and modern frontend techniques.
